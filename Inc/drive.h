@@ -10,12 +10,6 @@
 
 #include <stdint.h>
 
-const int MAX_AXES = 8;
-float axes[MAX_AXES] = {0.0};
-
-const int MAX_BUTTONS = 15;
-int buttons[MAX_BUTTONS] = {0};
-
 
 void drive_init(void);
 void drive_command(char cmd);
