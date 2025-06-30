@@ -1,0 +1,4 @@
+../Src/uart.c:37:6:UART2_Init	1
+../Src/uart.c:68:6:UART2_SendChar	2
+../Src/uart.c:77:6:UART2_SendString	2
+../Src/uart.c:88:6:USART2_IRQHandler	2

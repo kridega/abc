@@ -1,0 +1,2 @@
+../Src/pwm.c:17:6:pwm_init_all	4	static
+../Src/pwm.c:46:6:analogWrite_STM	16	static
